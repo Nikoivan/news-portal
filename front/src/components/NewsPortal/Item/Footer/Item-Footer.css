@@ -1,0 +1,30 @@
+.Item-Footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.Item-ViewsCount {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.Item-Wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.Item-Count {
+  display: block;
+}
+
+.Wrap-Element {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
